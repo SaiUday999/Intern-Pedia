@@ -129,8 +129,7 @@ public class Main {
     }
 }
 
-
-   				OUTPUT:
+OUTPUT:
 
 Login:
 Enter username: UDAY
